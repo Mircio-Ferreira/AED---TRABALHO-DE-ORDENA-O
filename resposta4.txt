@@ -1,0 +1,7 @@
+Respostas para a 4 questão:
+A) Bucket-Sort seria o mais rapido no geral, especialmente em dados randomicos. Bucket-Sort teve o melhor desempenho pratico em todos os cenários.
+B) Selection-Sort tem o pior desempenho em todos os casos O(nˆ2).
+C) Selection-Sort é o menos sensível ao tipo de entrada, Bucket-Sort é mais sensível ao tipo de entrada.
+D) Sim, os experimentos confirmam:
+Exemplo, Bucket-Sort: O tempo aumentou de forma quase linear com o tamanho do array, confirmando sua eficiência superior.
+E) Sim, o Bucket-Sort surpreendeu bastante. Não esperava muito, até mesmo pelo nome do Algoritmo, mas ele conseguiu ser superior a muitos algoritmos de ordenação.
