@@ -5,3 +5,6 @@ C) Selection-Sort é o menos sensível ao tipo de entrada, Bucket-Sort é mais s
 D) Sim, os experimentos confirmam:
 Exemplo, Bucket-Sort: O tempo aumentou de forma quase linear com o tamanho do array, confirmando sua eficiência superior.
 E) Sim, o Bucket-Sort surpreendeu bastante. Não esperava muito, até mesmo pelo nome do Algoritmo, mas ele conseguiu ser superior a muitos algoritmos de ordenação.
+
+Máquina utilizada nos testes:
+Notebook com Apple M4 Pro, CPU 12 núcleos, GPU 18 núcleos, 16 GB RAM unificada, SSD 512 GB, sistema macOs.
